@@ -1,3 +1,4 @@
 # Public-VLP-Dataset
-Data for article:
-format of data....
+Data supporting the article:
+## Large Experimental Data Set  for Visible Light Positioning Using Machine Learning and Channel Model Calibration  
+Only 10 rows have been included in the dataset pending publication of the article
